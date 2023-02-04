@@ -18,7 +18,7 @@ Skills: Mongo DB / Node JS / Express JS / REACT / JS / Tailwind CSS / Bootstrap 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=emon3455)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emon3455)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=emon3455)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emon3455&show_icons=true&count_private=true)  
 
