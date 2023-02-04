@@ -1,10 +1,10 @@
 ![I am a FullStack WebDeveloper](https://emon3455.github.io/PH-M4-Modul23-5/bnr.jpg)
-### Hi , my name is MD. Emon
-#### I am a FullStack WebDeveloper
+## Hi , my name is MD. Emon
+### I am a FullStack WebDeveloper
 
-Currently, I am studying computer science and engineering at the Green University of Bangladesh. I am a full-stack web developer and I am ready to work with you.
+Currently, I am studying computer science and engineering at the Green University of Bangladesh. I am a full-stack web developer. If you want to build your website feel free to contact with me.(emon.mhk69@gmail.com)
 
-Skills: Mongo DB / Node JS / Express JS / REACT / JS / Tailwind CSS / Bootstrap / CSS / HTML
+Skills: <strong> Mongo DB / Node JS / Express JS / REACT / JS / Tailwind CSS / Bootstrap / CSS / HTML </strong>
 
 - 🔭 I’m currently working on https://emon3455.github.io/FacebookDemoWebsite/ 
 - 🌱 I’m currently learning Full Stack Web Development 
