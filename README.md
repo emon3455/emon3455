@@ -2,7 +2,7 @@
 ## Hi , my name is MD. Emon
 ### I am a FullStack WebDeveloper
 
-Currently, I am studying computer science and engineering at the Green University of Bangladesh. I am a full-stack web developer. If you want to build your website feel free to contact with me.(emon.mhk69@gmail.com)
+Currently, I am studying computer science and engineering at the Green University of Bangladesh. I am a full-stack web developer. If you want to build your website feel free to contact with me at (emon.mhk69@gmail.com).
 
 Skills: <strong> Mongo DB / Node JS / Express JS / REACT / JS / Tailwind CSS / Bootstrap / CSS / HTML </strong>
 
