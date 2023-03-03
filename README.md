@@ -27,4 +27,4 @@ Skills: <strong> Mongo DB / Node JS / Express JS / REACT / JS / Tailwind CSS / B
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=emon3455)  
 
-![Profile views](https://gpvc.arturio.dev/emon3455)  
+![Profile views](https://gpvc.arturio.dev/emon3455)
