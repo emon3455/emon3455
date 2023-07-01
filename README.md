@@ -23,8 +23,4 @@ Skills: <strong> Mongo DB / Node JS / Express JS / REACT / JS / Tailwind CSS / B
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emon3455&show_icons=true&count_private=true)  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=emon3455&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=emon3455)  
-
-![Profile views](https://gpvc.arturio.dev/emon3455)
