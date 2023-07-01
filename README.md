@@ -6,11 +6,11 @@ Currently, I am studying computer science and engineering at the Green Universit
 
 Skills: <strong> Mongo DB / Node JS / Express JS / REACT / JS / Tailwind CSS / Bootstrap / CSS / HTML </strong>
 
-- 🔭 I’m currently working on https://emon3455.github.io/FacebookDemoWebsite/ 
-- 🌱 I’m currently learning Full Stack Web Development 
+- 🔭 I’m currently Looking for an Internship/Job
+- 🌱 A MERN Stack Developer
 - 👯 I’m looking to collaborate on Real Life projects 
 - 📫 How to reach me: emon.mhk69@gmail.com 
-- ⚡ Fun fact: I am ready with my Skills on Web Development to build your dream website 
+- ⚡ Fun fact: I am ready with my Skills on Web Development to build your dream website. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emon3455) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-emon-24b6ab234//) 
