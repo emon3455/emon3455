@@ -6,7 +6,7 @@ Currently, I am studying computer science and engineering at the Green Universit
 
 Skills: <strong> Mongo DB / Mongoose / Node JS / Express JS / REACT / Next.js / Redux / Redux Toolkit / RTK Query / Typescript / JWT / Javascript </strong>
 
-- 🔭 I’m currently Looking for an Internship/Job
+- 🔭 I’m currently Looking for an Job
 - 🌱 A MERN Stack Developer
 - 👯 I’m looking to collaborate on Real Life projects 
 - 📫 How to reach me: emon.mhk69@gmail.com 
