@@ -2,9 +2,9 @@
 ## Hi , my name is Emon
 ### I am a FullStack WebDeveloper
 
-Currently, I am studying computer science and engineering at the Green University of Bangladesh. I am a full-stack web developer. If you want to build your website feel free to contact with me at (emon.mhk69@gmail.com).
+Currently, I am a graduate of computer science and engineering. I am a full-stack software Engineer. If you want to build your website/App feel free to contact with me at (emon.mhk69@gmail.com).
 
-Skills: <strong> Mongo DB / Mongoose / Node JS / Express JS / REACT / Next.js / Redux / Redux Toolkit / RTK Query / Typescript / JWT / Javascript </strong>
+Skills: <strong> Mongo DB / Mongoose / Node JS / Express JS / REACT / Next.js / React Native / Redux / Typescript / Javascript / Python / FastApi / Machine Learning / Deep Learning </strong>
 
 - 🔭 I’m currently Looking for an Job
 - 🌱 A MERN Stack Developer
