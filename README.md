@@ -10,7 +10,7 @@ Skills: <strong> Mongo DB / Mongoose / Node JS / Express JS / REACT / Next.js / 
 - 🌱 A MERN Stack Developer
 - 👯 I’m looking to collaborate on Real Life projects 
 - 📫 How to reach me: emon.mhk69@gmail.com 
-- ⚡ Fun fact: I am ready with my Skills on Web Development to build your dream website. 
+- ⚡ Fun fact: I am ready with my Skills on Software Development to build your dream website. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emon3455) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-emon-24b6ab234//) 
